@@ -11,14 +11,14 @@ This is a 2D arcade game developed using OpenGL 3.0.
 - Build -> Run (Only this needed after editing)
 
 # Using CLI
-```
-cd path/to/project
-mkdir build
-cd build
-cmake ..
-Run from here after editing
-make
-./tut
+
+- cd path/to/project
+- mkdir build
+- cd build
+- cmake ..
+- Run from here after editing
+- make
+- ./tut
 
 
 ## Controls of the game:-
